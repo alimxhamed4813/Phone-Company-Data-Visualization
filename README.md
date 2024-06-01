@@ -12,13 +12,17 @@ Generates detailed billing information for specific customers and months.
 The system is designed for MewbileTech operators to analyze past calling patterns, with the potential for future expansion.
 
 # Features
-#Data Loading: Read and parse customer call data from JSON files.
 
-#Visualization: Display call activity on an interactive map of Toronto using pygame.
-#Filtering: Filter calls based on customer ID and date through a user-friendly tkinter interface.
-#Billing: Generate detailed billing information for specific customers and months.
+Data Loading: Read and parse customer call data from JSON files.
 
-#Technologies Used
+Visualization: Display call activity on an interactive map of Toronto using pygame.
+
+Filtering: Filter calls based on customer ID and date through a user-friendly tkinter interface.
+
+Billing: Generate detailed billing information for specific customers and months.
+
+# Technologies Used
+
 Python: Core programming language.
 
 JSON: For storing and loading customer call data.
