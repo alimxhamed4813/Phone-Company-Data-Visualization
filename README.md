@@ -33,11 +33,4 @@ tkinter: For the graphical user interface.
 
 pygame: For visualizing call activity on a map.
 
-# Usage:
-
-Clone the repository.
-
-Install dependencies.
-
-Run the application.
 
